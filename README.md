@@ -1,7 +1,7 @@
 # gitskills
 
 ```txt
-Creating a new branch is quick AND simple!!!
-修复bug哈哈哈哈哈哈哈
+Creating a new branch is quick AND simple
+累死了累死了累死了
 ```
 
